@@ -1,0 +1,6 @@
+/**
+ * DatabaseConnector
+ */
+public class DatabaseConnector {
+
+}

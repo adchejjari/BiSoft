@@ -1,0 +1,6 @@
+/**
+ * DatabaseManager
+ */
+public class DatabaseManager {
+
+}

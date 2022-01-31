@@ -1,13 +1,13 @@
 /**
- * Bike
+ * Vehicle
  */
-public class Bike extends Marchandise {
+public class Vehicle extends Marchandise {
     private String serieNumber;
     private String engine;
     private String speed;
     private String size;
 
-    Bike(String n, String cb, int tva, float buyingP, float sellingP, String prov, String serieNum) {
+    Vehicle(String n, String cb, int tva, float buyingP, float sellingP, String prov, String serieNum) {
         super(n, cb, tva, buyingP, sellingP, prov);
         this.serieNumber = serieNum;
     }
