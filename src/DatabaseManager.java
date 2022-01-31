@@ -1,6 +1,7 @@
 /**
  * DatabaseManager
  */
+
 public class DatabaseManager {
 
 }
