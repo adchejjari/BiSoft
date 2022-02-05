@@ -3,6 +3,7 @@
  */
 public class Vehicle extends Marchandise {
     private String serieNumber;
+    private String frameNumber;
     private String engine;
     private String speed;
     private String size;
@@ -22,6 +23,10 @@ public class Vehicle extends Marchandise {
 
     public void setSize(String s) {
         this.size = s;
+    }
+
+    public void setFrameNumber(String f) {
+        this.frameNumber = f;
     }
 
 }

@@ -22,4 +22,20 @@ public class DatabaseConnector {
         System.out.println("database opened successfully");
     }
 
+    public void createCostumersTable() {
+
+    }
+
+    public void createMarchandisesTable() {
+
+    }
+
+    public void createVehiclesTable() {
+
+    }
+
+    public void createUsersTable() {
+
+    }
+
 }
